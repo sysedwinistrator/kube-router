@@ -5,6 +5,7 @@ linters:
     - bodyclose
     - depguard
     - dogsled
+    - dupl
     - gofmt
     - goimports
     - misspell
